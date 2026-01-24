@@ -1,1 +1,0 @@
-Provider=Microsoft.Jet.OLEDB.4.0;Data Source=C:\STOCK\DBSTOCK.mdb;Persist Security Info=False
